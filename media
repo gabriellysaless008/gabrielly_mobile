@@ -1,0 +1,8 @@
+alert ( "sistema para saber sua média" );
+
+var primeiraNota = Number (prompt ( " Digite a primeiraNota: " ));
+var segundaNota = Number (prompt (" Digite a segundaNota: "));
+var terceiraNota = Number (prompt (" Digite a terceiraNota: "));
+
+var media = ((primeiraNota + segundaNota + terceiraNota)/3);
+alert (media);
