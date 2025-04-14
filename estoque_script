@@ -1,0 +1,9 @@
+var nome = ( prompt( "Digite seu nome: " ) );
+var idade = ( prompt( "Digite sua idade: " ) );
+var telefone =  ( prompt( "Digite seu telefone: ") );
+
+console.log( nome );
+console.log( idade );
+console.log( telefone );
+
+alert( "Muito obrigado!" );
